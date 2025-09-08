@@ -1,0 +1,145 @@
+
+    /*
+    Colors used
+
+    CSS HEX
+    --bright-pink-crayola: #ee4b6aff;
+    --pink: #f4b8c3ff;
+    --black: #010001ff;
+    --flax: #f2e47dff;
+    --arylide-yellow: #e6d460ff;
+    --mimi-pink: #fed7deff;
+    --red-cmyk: #ea261fff;
+     CSS HSL
+    --bright-pink-crayola: hsla(349, 83%, 61%, 1);
+    --pink: hsla(349, 73%, 84%, 1);
+    --black: hsla(300, 100%, 0%, 1);
+    --flax: hsla(53, 82%, 72%, 1);
+    --arylide-yellow: hsla(52, 73%, 64%, 1);
+    --mimi-pink: hsla(349, 95%, 92%, 1);
+    --red-cmyk: hsla(2, 83%, 52%, 1);
+
+*/
+
+/* CSS for Pikachu's Portfolio */
+/* Reset and base styles */
+/* CSS for Pikachu Portfolio - my_style2.css */
+
+/* Base styles */
+* {
+    margin: 0;
+    padding: 0;
+   
+}
+
+body {
+    font-family: 'Arial', sans-serif;
+    color: #333;
+    line-height: 1.6;
+    padding: 20px;
+    max-width: 1000px;
+    margin: 0 auto;
+} 
+
+/* Typography */
+h1 {
+   background-color: pink;
+    
+}
+
+.specie {
+    
+}
+
+em {
+   background-color: pink;
+   color: rgb(228, 125, 142);
+ margin-top: 50px;
+}
+h2 {
+   background-color: pink; 
+   margin: 20px 0px 20px 0px;
+}
+
+/* Image styles */
+#pika1,#pika2{
+  border-style: solid;
+   border-color: red;
+   float: right;
+   margin: 20px 0px 20px 0px;  
+
+}
+
+
+
+
+/* Text content */
+p {
+   margin: 20px 0px 20px 0px;
+}
+
+/* Evolution styles */
+.evolution {
+   background-color: rgb(234, 237, 50);
+   
+}
+span.evolution{
+    border-bottom: 4px solid #cf3232;
+}
+.evolution::evolution2 {
+   
+    border-right: 4px #db3434;
+}
+
+/* List styles */
+ul.evolution {
+    margin: 20px 0px 20px 0px;   
+border-bottom: 4px solid #070707;
+border-right: 4px solid #070707;
+}
+
+
+ul li {
+   margin: 0px 0px 0px 50px; 
+}
+
+
+/* Table styles */
+table {
+border-style: solid #da6363;
+  border-width: 5px 5px;
+}
+
+th, td {
+   border-style: solid pink;
+  border-width: 2px 2px;
+}
+
+th {
+   
+}
+
+tr:nth-child(even) {
+   
+}
+
+tr:hover {
+   
+}
+
+/* Footer styles */
+hr {
+   
+}
+
+#footer {
+    
+}
+
+#footer a {
+   
+}
+
+#footer a:hover {
+   
+}
