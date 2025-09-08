@@ -1,10 +1,4 @@
-<!DOCTYPE html>
-<html>
-<head>
-
-<title>Page Title</title>
-<script>
-    //coments
+//coments
     //old
     var myName = "Nazifa";
     //new
@@ -22,20 +16,7 @@ let mynewName = "Nazifa new";
                 }
     catch(error){
 // Alert missing variable
-
+console.info('I caught the error')
              }
                         console.log(myName);
                         console.log(mynewName);
-</script>
-    <script src="Java_script_001.js"></script>
-
-
-
-</head>
-<body>
-
-<h1></h1>
-<p></p>
-
-</body>
-</html>
